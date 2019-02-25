@@ -4,7 +4,8 @@ import requests
 import json
 import math
 import os
-dome = 7
+
+dome = 5
 gender = 1
 
 print("Now system working in : dome",dome," male" if gender == 1 else " female")
